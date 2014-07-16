@@ -3,5 +3,6 @@
 void mian()
 {
   printf("hi.................!");
+  printf("bye......");
   getch();
 }
