@@ -2,7 +2,7 @@
 #include<conio.h>\
 void mian()
 {
-  printf("Wlcome to our Wrld");
+  printf("Welcome to our Wrld");
   printf("Where we rules");
   getch();
 }
